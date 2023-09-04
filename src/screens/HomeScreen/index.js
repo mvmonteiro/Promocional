@@ -233,7 +233,7 @@ export default function HomeScreen() {
                       color: theme.colors.neutral["900"],
                     }}
                   >
-                    Alura Cases
+                    Alura New Cases
                   </Text>
                   <Text
                     as="p"
